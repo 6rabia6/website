@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fleece Hoodies & T-Shirts - Opulent Weaves</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+<header>Opulent Weaves</header>
+
+<div class="container">
+  <h1>Fleece Hoodies & T-Shirts</h1>
+  <p class="desc">Cozy fleece hoodies and stylish t-shirts designed for comfort and durability.</p>
+
+  <div class="grid">
+    <div class="card">
+      <img src="images/hoodie1.jpeg" alt="Hoodie 1">
+      <p>Classic fleece hoodie with adjustable drawstrings.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie2.jpeg" alt="Hoodie 2">
+      <p>Casual crew-neck t-shirt in premium cotton fabric.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie3.jpeg" alt="Hoodie 3">
+      <p>Warm pullover hoodie ideal for winter wear.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie4.jpeg" alt="Hoodie 4">
+      <p>Stylish printed t-shirt for everyday fashion.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie5.jpeg" alt="Hoodie 5">
+      <p>Lightweight hoodie perfect for casual outings.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie6.jpeg" alt="Hoodie 6">
+      <p>Durable round-neck t-shirt with breathable fabric.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie7.jpeg" alt="Hoodie 7">
+      <p>Zip-up hoodie with soft fleece lining for comfort.</p>
+    </div>
+    <div class="card">
+      <img src="images/hoodie8.jpeg" alt="Hoodie 8">
+      <p>Modern slim-fit t-shirt crafted for all-day wear.</p>
+    </div>
+  </div>
+
+  <div style="text-align:center">
+    <a href="index.html#products" class="back"><i class="fas fa-arrow-left"></i> Back to Products</a>
+  </div>
+</div>
+
+<footer>© 2025 Opulent Weaves. All Rights Reserved.</footer>
+
+</body>
+</html>

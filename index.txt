@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Opulent Weaves - Textile Exporter</title>
+  <link rel="stylesheet" href="index1style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- NAV -->
+  <header class="navbar">
+    <div class="brand">
+      <img src="images/logo.jpeg" alt="logo" width="50">
+      <div class="name">Opulent Weaves</div>
+    </div>
+
+    <div class="menu-toggle" aria-label="menu" role="button">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div>
+
+    <ul class="nav-links">
+      <li><a href="#home"><i class="fas fa-home"></i>Home</a></li>
+      <li><a href="#about"><i class="fas fa-info-circle"></i>About Us</a></li>
+      <li><a href="#products"><i class="fas fa-boxes"></i>Products</a></li>
+      <li><a href="#conduct"><i class="fas fa-gavel"></i>Code Of Conduct</a></li>
+      <li><a href="#contact"><i class="fas fa-envelope"></i>Contact Us</a></li>
+      <li><a href="#location"><i class="fas fa-map-marker-alt"></i>Location</a></li>
+    </ul>
+  </header>
+
+  <!-- HERO -->
+  <section id="home" class="hero">
+    <div class="inner">
+      <h1>Welcome to Opulent Weaves</h1>
+      <p>Pakistan’s Premier Exporter & Supplier of Home Textiles — Textile Excellence for Homes & Hospitality Worldwide.</p>
+      <div class="btns">
+        <a class="btn" href="#about">Learn More</a>
+        <a class="btn" href="#contact">Enquire Now</a>
+      </div>
+    </div>
+  </section>
+
+  <main class="container">
+
+    <!-- ABOUT -->
+    <section id="about" class="about">
+      <img src="images/about.jpeg" alt="About image">
+      <div class="text">
+        <h2>About Us</h2>
+        <p><span class="highlight">Opulent Weaves</span> is a leading Pakistani manufacturer & exporter of premium home textiles — towels, bath robes & mats, curtains, bed sheet sets, fleece hoodies & t-shirts, trousers & jogging pants and polos.</p>
+        <p>We combine traditional craftsmanship with modern production and strict quality control to meet global standards. Our vertical operations ensure sustainable sourcing and responsible practices for homes & hospitality worldwide.</p>
+      </div>
+    </section>
+
+    <!-- MISSION & VISION -->
+    <section class="mv">
+      <div class="card">
+        <h3>Our Mission</h3>
+        <p>To provide superior-quality textiles that blend comfort, durability and style — serving homes, hospitality & apparel markets globally with innovation, integrity and customer-focused solutions.</p>
+      </div>
+      <div class="card">
+        <h3>Our Vision</h3>
+        <p>To deliver textiles that embody quality, comfort and reliability — building lasting partnerships worldwide and setting benchmarks in design, sustainability and service.</p>
+      </div>
+    </section>
+
+    <!-- PRODUCTS -->
+    <section id="products" class="products">
+      <h2>Our Products</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="images/towel.jpeg" alt="Towels">
+          <div class="body">
+            <h4>Towels</h4>
+            <p>Soft, absorbent towels crafted for durability and luxury.</p>
+            <div class="actions"><a class="view" href="towels.html">View More</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/bathrobes.jpeg" alt="Bath Robes">
+          <div class="body">
+            <h4>Bath Robes & Mats</h4>
+            <p>Luxury bath linens designed for hospitality & home comfort.</p>
+            <div class="actions"><a class="view" href="robes.html">View More</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/curtains.jpeg" alt="Curtains">
+          <div class="body">
+            <h4>Curtains</h4>
+            <p>Elegant drapery to add style and privacy to interiors.</p>
+            <div class="actions"><a class="view" href="curtains.html">View More</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/sheets.jpeg" alt="Sheets">
+          <div class="body">
+            <h4>Bed Sheet Sets</h4>
+            <p>Premium sheet sets for comfort and refined aesthetics.</p>
+            <div class="actions"><a class="view" href="sheets.html">View More</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/hoodies.jpeg" alt="Hoodies">
+          <div class="body">
+            <h4>Fleece Hoodies & T-Shirts</h4>
+            <p>Comfortable apparel with quality fabric and fit.</p>
+            <div class="actions"><a class="view" href="hoodies.html">View More</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trousers.jpeg" alt="Trousers">
+          <div class="body">
+            <h4>Trousers & Jogging Pants</h4>
+            <p>Functional, stylish bottoms for active and casual wear.</p>
+            <div class="actions"><a class="view" href="trousers.html">View More</a></div>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/polos.jpeg" alt="Polos">
+          <div class="body">
+            <h4>Polos</h4>
+            <p>Classic polos combining comfort with smart casual style.</p>
+            <div class="actions"><a class="view" href="polos.html">View More</a></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CODE OF CONDUCT -->
+    <section id="conduct" class="conduct">
+      <h2>Code of Conduct</h2>
+      <p class="tagline">Committed to Ethical Trade, Quality Craftsmanship, and Global Trust.</p>
+
+      <div class="boxes">
+        <div class="box">
+          <h4>Quality Policy</h4>
+          <p>✔ Strict material checks and international quality control<br>
+             ✔ Sustainable raw materials<br>
+             ✔ Durability & performance testing<br>
+             ✔ Continuous R&D in finishes<br>
+             ✔ Timely delivery with conformity</p>
+        </div>
+        <div class="box">
+          <h4>Ethics</h4>
+          <p>✔ Fair labor practices<br>
+             ✔ Ethical sourcing & transparency<br>
+             ✔ Environmental responsibility<br>
+             ✔ Anti-corruption & compliance<br>
+             ✔ Building long-term trust</p>
+        </div>
+      </div>
+    </section>
+ 
+<!-- CONTACT US SECTION -->
+<section id="contact" class="contact">
+  <div class="contact-box">
+    <!-- Main Heading -->
+    <h2 class="main-heading">contact us</h2>
+
+    <div class="contact-content">
+      <!-- Left Side Form -->
+      <div class="form-container">
+        <h3 class="form-heading">Enquire Form</h3>
+        <form id="enquire-form" class="enquire-form">
+          <input type="text" placeholder="Your Name" required>
+          <input type="email" placeholder="Your Email" required>
+          <textarea placeholder="Your Message" required></textarea>
+          <button type="submit">Send Message</button>
+        </form>
+        <p id="thankyou-msg" class="thankyou-msg"></p>
+      </div>
+
+      <!-- Right Side Info -->
+      <div class="info-container">
+        <h3 class="sub-heading">Connect with us</h3>
+
+        <div class="contact-item">
+          <i class="fas fa-phone"></i>
+          <span>+92-300-1234567</span>
+        </div>
+
+        <div class="contact-item">
+          <i class="fas fa-envelope"></i>
+          <span>opulentweqvesintl@gmail.com</span>
+        </div>
+
+        <div class="contact-item">
+          <i class="fab fa-facebook"></i>
+          <span>opulentweqvesintl</span>
+        </div>
+
+        <div class="contact-item">
+          <i class="fab fa-instagram"></i>
+          <span>OpulentWeqvesintl</span>
+        </div>
+
+        <img src="images/contact.jpg" alt="Contact Image" class="contact-img">
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Font Awesome Icons -->
+<link rel="index1stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Confetti Library -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+
+
+  <!-- ✅ Script HTML ke andar hi -->
+  <script>
+    document.getElementById("enquire-form").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      // Show Thank You Message
+      const msg = document.getElementById("thankyou-msg");
+      msg.style.display = "block";
+      msg.textContent = "🎉 Thank you! Your message has been sent.";
+
+      // Fire confetti
+      confetti({
+        particleCount: 120,
+        spread: 70,
+        origin: { y: 0.6 }
+      });
+
+      // Reset form
+      this.reset();
+
+      // Hide thankyou after 5s
+      setTimeout(() => { msg.style.display = "none"; }, 5000);
+    });
+  </script>
+
+
+
+    
+ 
+ <!-- LOCATION -->
+    <section id="location" class="location">
+      <h2>Our Locations</h2>
+      <div class="boxes">
+        <div class="box">
+          <i class="fas fa-map-marker-alt"></i>
+          <div>
+            <h4>Karachi</h4>
+            <a href="https://goo.gl/maps/korangiindustrial" target="_blank">View Location</a>
+          </div>
+        </div>
+        <div class="box">
+          <i class="fas fa-map-marker-alt"></i>
+          <div>
+            <h4>Lahore</h4>
+            <a href="https://goo.gl/maps/lahorecity" target="_blank">View Location</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div>© 2025 Opulent Weaves. All Rights Reserved.</div>
+    <div class="social">
+      <a href="mailto:opulentweavesintl@gmail.com"><i class="fas fa-envelope"></i></a>
+      <a href="tel:+923001234567"><i class="fas fa-phone"></i></a>
+      <a href="https://www.instagram.com/opulentweaves_official" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://www.facebook.com/opulentweaves" target="_blank"><i class="fab fa-facebook"></i></a>
+    </div>
+  </footer>
+
+<script>
+  const toggle = document.querySelector('.menu-toggle');
+  const navLinks = document.querySelector('.nav-links');
+
+  if (toggle && navLinks) {
+    toggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+      toggle.classList.toggle('open');
+    });
+
+    navLinks.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => {
+        navLinks.classList.remove('active');
+        toggle.classList.remove('open');
+      });
+    });
+  }
+</script>
+
+</body>
+</html>

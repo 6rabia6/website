@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Bath Robes & Bath Mats - Opulent Weaves</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<header>Opulent Weaves</header>
+
+<div class="container">
+  <h1>Bath Robes & Bath Mats</h1>
+  <p class="desc">Luxurious robes and mats designed for everyday comfort and elegance.</p>
+
+  <div class="grid">
+    <div class="card">
+      <img src="images/robe1.jpeg" alt="Bath Robe 1">
+      <p>Plush cotton robe offering ultimate post-bath comfort.</p>
+    </div>
+    <div class="card">
+      <img src="images/robe2.jpeg" alt="Bath Robe 2">
+      <p>Soft fleece robe designed for cozy mornings and evenings.</p>
+    </div>
+    <div class="card">
+      <img src="images/robe3.jpeg" alt="Bath Robe 3">
+      <p>Lightweight robe perfect for spa and resort wear.</p>
+    </div>
+    <div class="card">
+      <img src="images/robe4.jpeg" alt="Bath Robe 4">
+      <p>Elegant waffle robe for a professional spa experience.</p>
+    </div>
+    <div class="card">
+      <img src="images/mat1.jpeg" alt="Bath Mat 1">
+      <p>Absorbent bath mat ensuring a safe and dry bathroom floor.</p>
+    </div>
+    <div class="card">
+      <img src="images/mat2.jpeg" alt="Bath Mat 2">
+      <p>Luxury mat crafted from premium cotton fibers for softness.</p>
+    </div>
+    <div class="card">
+      <img src="images/mat3.jpeg" alt="Bath Mat 3">
+      <p>Quick-dry bath mat designed for modern bathrooms.</p>
+    </div>
+    <div class="card">
+      <img src="images/mat4.jpeg" alt="Bath Mat 4">
+      <p>Anti-slip bath mat combining style with functionality.</p>
+    </div>
+  </div>
+
+  <div style="text-align:center">
+    <a href="index.html#products" class="back"><i class="fas fa-arrow-left"></i> Back to Products</a>
+  </div>
+</div>
+
+<footer>© 2025 Opulent Weaves. All Rights Reserved.</footer>
+
+</body>
+</html>
